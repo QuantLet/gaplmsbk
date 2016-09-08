@@ -1,0 +1,21 @@
+Name of QuantLet:  gaplmsbk
+
+Published in:      ?
+
+Description:       Spline-backfitted kernel estimation for component function in Generalized Addtive Partially Linear Model
+
+Keywords:          Spline, kernel, Additive,
+
+See also:          gamsbk
+
+Author:            Rong Liu
+
+Submitted:         September 07 2016 by Rong Liu
+
+Datafile:          ?
+
+Input:             x: n*p matrix y: n*1 vector
+
+Output:  
+
+Example:  
