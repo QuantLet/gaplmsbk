@@ -6,8 +6,6 @@ Description:       Spline-backfitted kernel estimation for component function in
 
 Keywords:          spline, kernel, partial, linear, estimation
 
-See also:          gamsbk
-
 Author:            Rong Liu
 
 Submitted:         September 07 2016 by Rong Liu
