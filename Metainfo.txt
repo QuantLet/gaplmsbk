@@ -2,7 +2,7 @@ Name of QuantLet:  gaplmsbk
 
 Published in:      Default Prediction by Generalized Additive Partially Linear Model
 
-Description:       Spline-backfitted kernel estimation for component function in Generalized Addtive Partially Linear Model
+Description:       'Spline-backfitted kernel estimation for component function in Generalized Addtive Partially Linear Model'
 
 Keywords:          spline, kernel, partial, linear, estimation
 
