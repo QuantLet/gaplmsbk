@@ -3,7 +3,7 @@
 # component function to be estimated c1,c2: adjust the number of knots for spline ch: adjust the bandwidth of kernel family: provide a
 # convenient way to specify the details of the models used, same as as glm in R.
 
-gplmsbk <- function(x, t, y, alpha, xfixed, initial, c1, c2, ch, family, thetaalphaoracle) {
+gaplmsbk <- function(x, t, y, alpha, xfixed, initial, c1, c2, ch, family, thetaalphaoracle) {
     
     library("splines")
     
